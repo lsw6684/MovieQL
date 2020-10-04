@@ -1,0 +1,34 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "Movie API with Graphql",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsw6684/movieql.git"
+  },
+  "author": "SeungWon Lee <lsw6684@hanmail.net>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.18.1",
+    "apollo-server-express": "^2.18.1",
+    "apollo-server-lambda": "^2.18.1",
+    "braces": "^3.0.2",
+    "core-js": "2",
+    "graphql": "^15.3.0",
+    "graphql-yoga": "^1.18.3"
+  },
+  "scripts": {
+    "start": "nodemon --exec babel-node index.js"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1"
+  },
+  "bugs": {
+    "url": "https://github.com/lsw6684/movieql/issues"
+  },
+  "homepage": "https://github.com/lsw6684/movieql#readme",
+  "keywords": []
+}
