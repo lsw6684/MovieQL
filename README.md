@@ -1,5 +1,5 @@
 # MovieQL
-## GraphQL for API
+## GraphQL Server for API
 - Managing ***Database*** (including schema.graphql)
 - Making ***server*** by using ***GraphQL***
 - Using ***Playground***
