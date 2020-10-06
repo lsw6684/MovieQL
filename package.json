@@ -6,7 +6,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lsw6684/movieql.git"
-  }, 
+  },
   "author": "SeungWon Lee <lsw6684@hanmail.net>",
   "license": "MIT",
   "dependencies": {
@@ -16,7 +16,8 @@
     "braces": "^3.0.2",
     "core-js": "2",
     "graphql": "^15.3.0",
-    "graphql-yoga": "^1.18.3"
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.1"
   },
   "scripts": {
     "start": "nodemon --exec babel-node index.js"
