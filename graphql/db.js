@@ -35,7 +35,7 @@ export const people = [
       age: 18,
       gender: "male"
     },
-    {
+    { 
       id: "6",
       name: "flynn",
       age: 18,
