@@ -40,7 +40,7 @@ export const people = [
       name: "flynn",
       age: 18,
       gender: "male"
-    }
+     }
   ];
 
  export const getById = id => {

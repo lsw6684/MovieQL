@@ -3,7 +3,7 @@ type Person{
   name: String!
   age: Int!
   gender: String!
-  
+   
 }
 
 type Query {
